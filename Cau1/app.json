@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Movie Watchlist - Cau 1",
+    "slug": "movie-watchlist-cau-1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
